@@ -1,0 +1,16 @@
+h1
+{
+  font-family:arial;
+}
+div{
+  margin-left: 400px;
+  width: 530px;
+  font-family:arial;
+}
+p.border{
+  text-align: center;
+  border-style: solid;
+  border-width: thin;
+  border-color: white;
+  padding: 15px 50px 15px 20px;
+}
